@@ -1,2 +1,2 @@
 # AWS-MEDIA-WiKI
-# AWS-MEDIA-WiKI
+
